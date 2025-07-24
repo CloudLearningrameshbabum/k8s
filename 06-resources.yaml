@@ -8,8 +8,8 @@ spec:
     image: nginx
     resources:
       requests: # soft limit
-        memory: "68Mi"
-        cpu: "100m"
+        memory: "69Mi"
+        cpu: "101m"
       limits: # hard limit
         memory: "128Mi"
-        cpu: "150m"
+        cpu: "151m"
